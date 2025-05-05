@@ -28,6 +28,8 @@ Our vision is to simplify project funding by eliminating intermediaries. This sm
 
 ## Contract Details
 ### Contract Address: CA4MK7ZSOXMFA4WCCSZTGEDTAQG62HMWBYCA2EYFTZ4OZUN6X2PMNVRP
+![Screenshot (2)](https://github.com/user-attachments/assets/939555f7-1cc6-4dbe-870d-a05c2fd845aa)
+
 
 This smart contract is written using the Soroban SDK and includes the following key functionalities:
 
